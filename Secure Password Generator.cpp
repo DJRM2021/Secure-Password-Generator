@@ -1,6 +1,6 @@
 /* Secure Password Generator ver.2.0
  * This program generates passwords.
- * Programmer: Raymart C. Atienza
+ * Programmer: DJRM2021
  * Build 2.0.0.0
  * Target Architecture: x86 X64
  * Compiled using Visual Studio 2010
