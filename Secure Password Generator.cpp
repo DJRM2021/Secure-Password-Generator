@@ -6,7 +6,7 @@
  * Compiled using Visual Studio 2010
  * Last Modified: June 19, 2011
  */
-#include "resource.h"
+#include "resource.h" // The original "About" dialog box is lost together with the old Visual Studio Solution file.
 #include <Windows.h>
 #include <WindowsX.h>
 #include <string>
